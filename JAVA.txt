@@ -6,10 +6,13 @@ STRINGS -
 
 
 
-         2) toUpperCase -     (capitalize string)   
+         2) toUpperCase -     (capitalize string)  
 
 
 
          3) subString  -       object.subString (inclusive start index , exclusive end index)  
                                "cut the string based on start and endings"
+
+
+ARRAY - 
                                  
